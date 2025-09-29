@@ -10,14 +10,7 @@ Welcome to my GitHub profile! 🚀
 - 🎮 Projects include games, utilities, and experimental code
 - 📫 You can reach me via [GitHub](https://github.com/xavierfingers)
 
----
-
-## GitHub Stats
-
-<!-- GitHub Readme Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xavierfingers&show_icons=true&theme=radical" alt="Xavier Fingers' GitHub Stats" />
-</p>
+-
 
 ---
 
