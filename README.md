@@ -9,6 +9,7 @@ Welcome to my GitHub profile! 🚀
 - 🌱 Always learning and building projects
 - 🎮 Projects include games, utilities, and experimental code
 - 📫 You can reach me via [GitHub](https://github.com/xavierfingers)
+- [![🔀 Gemini Dispatch](https://github.com/xavierfingers/Zainblog/actions/workflows/gemini-dispatch.yml/badge.svg)](https://github.com/xavierfingers/Zainblog/actions/workflows/gemini-dispatch.yml)
 
 -
 
