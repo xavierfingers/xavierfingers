@@ -11,11 +11,7 @@ Welcome to my GitHub profile! 🚀
 - 📫 You can reach me via [GitHub](https://github.com/xavierfingers)
 - [![🔀 Gemini Dispatch](https://github.com/xavierfingers/Zainblog/actions/workflows/gemini-dispatch.yml/badge.svg)](https://github.com/xavierfingers/Zainblog/actions/workflows/gemini-dispatch.yml)
 - GitHub Pages link: <https://xavierfingers.github.io/Zainblog/public/index.html>
-
--
-
----
-
+- [![GPSD Server Test](https://github.com/xavierfingers/Zainblog/actions/workflows/main.yml/badge.svg)](https://github.com/xavierfingers/Zainblog/actions/workflows/main.yml)
 ## Top Languages
 
 <p align="center">
