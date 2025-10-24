@@ -28,6 +28,6 @@ Rust learning projects and experiments
 ## 📫 Connect With Me
 - 📧 **Email:** xavierfingers@gmail.com
 - 🌐 **Blog:** [xavierfingers.github.io/Zainblog](https://xavierfingers.github.io/Zainblog)
-- 💻 **Local:** 127.0.0.1:80
+- 💻 Local: 127.0.0.1:80 (it's a joke, I promise I'm not actually hosting locally 😂)
 > "Code is like humor. When you have to explain it, it's bad." - Cory House
 
