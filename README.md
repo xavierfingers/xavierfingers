@@ -1,44 +1,30 @@
-# Hi there 👋, I'm Xavier Fingers
+# 👋 Hi, I'm Zain
 
-Welcome to my GitHub profile! 🚀
+**Python & Rust Enthusiast | Learning C | Open Source Contributor**
 
----
+## 🛠 Tech Stack
+- **Languages:** Python, Rust, C (learning), HTML, JavaScript
+- **Technologies:** GitHub Pages, MCP Servers, Static Sites, Low-level Programming
+- **Tools:** Git, GitHub Actions, Jekyll
+## 🎮 Featured Projects
+### [Dino Game Replication]()
+Chrome dinosaur game clone with custom features
 
-## About Me
-- 👨‍💻 GitHub username: **xavierfingers**
-- 🌱 Always learning and building projects
-- 🎮 Projects include games, utilities, and experimental code
-- 📫 You can reach me via [GitHub](https://github.com/xavierfingers)
-- [![🔀 Gemini Dispatch](https://github.com/xavierfingers/Zainblog/actions/workflows/gemini-dispatch.yml/badge.svg)](https://github.com/xavierfingers/Zainblog/actions/workflows/gemini-dispatch.yml)
-- GitHub Pages link: <https://xavierfingers.github.io/Zainblog/public/index.html>
+### [MSMS - My Simple MCP Server]()
+Python-based Model Context Protocol server implementation
+### [Rust Failure]()
+Rust learning projects and experiments
+## 📊 GitHub Stats
+![Zain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xavierfingers&show_icons=true&theme=dark)
+## 🏆 Achievements
+- 🦈 **Pull Shark x2** - Multiple successful pull requests
+- 👥 **Pair Extraordinaire** - Effective collaborator  
+- ⚡ **Quickdraw** - Fast problem solver
+- 🎯 **YOLO** - Fearless coder
 
--
+## 📫 Connect With Me
+- 📧 **Email:** xavierfingers@gmail.com
+- 🌐 **Blog:** [xavierfingers.github.io/Zainblog](https://xavierfingers.github.io/Zainblog)
+- 💻 **Local:** 127.0.0.1:80
 
----
-
-## Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xavierfingers&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-## Contributions
-
-<p align="center">
-  <img src="https://github.com/xavierfingers/github-readme-activity-graph/blob/master/graph?username=xavierfingers&theme=react-dark" alt="GitHub Contributions Graph" />
-</p>
-
----
-
-## Projects
-Some of my repositories:
-- [Dino Game Replication](https://github.com/xavierfingers/dino-game-replication)
-- [Golg.github.com](https://github.com/xavierfingers/golg.github.com)
-- [MSMS](https://github.com/xavierfingers/msms)
-- And many more...
-
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> "Code is like humor. When you have to explain it, it's bad." - Cory House
