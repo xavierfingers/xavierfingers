@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Zain
-
+[![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/xavierfingers/App-with-auth/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/xavierfingers/App-with-auth/actions/workflows/jekyll-gh-pages.yml)
 **Python & Rust Enthusiast | Learning C | Open Source Contributor**
 
 ## 🛠 Tech Stack
