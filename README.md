@@ -5,7 +5,7 @@
 ## 🛠 Tech Stack
 - **Languages:** Python, Rust, C (learning), HTML, JavaScript
 - **Technologies:** GitHub Pages, MCP Servers, Static Sites, Low-level Programming
-- **Tools:** Git, GitHub Actions, Jekyll, (https://snyk.io)[Snyk]
+- **Tools:** Git, GitHub Actions, Jekyll, ![Snyk](snyk.io)
 ## 🎮 Featured Projects
 ### [Dino Game Replication]()
 Chrome dinosaur game clone with custom features
